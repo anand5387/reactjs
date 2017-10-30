@@ -2,3 +2,9 @@ To run the app:
 $> npm install
 $> npm run dev
 Go to http://localhost:8080/
+
+Sample React JS Task
+---------------------
+
+Able to display the videos list as Carousel.
+
